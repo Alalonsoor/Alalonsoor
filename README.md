@@ -1,8 +1,8 @@
-# ¡Hola! Soy Alvaro Alonso 👋
+# Hello! I'm Alvaro Alonso 👋
 
-Soy un estudiante de **Data Engineering** e **Inteligencia Artificial** en la **Universidad Complutense de Madrid**. Me especializo en **Procesamiento de Lenguaje Natural (NLP)**, **Machine Learning**, **Análisis de Datos** y **Visualización de Datos**. Estoy comprometido con el uso de tecnologías avanzadas para resolver problemas complejos y extraer información valiosa de los datos.
+I am a student of **Data Engineering** and **Artificial Intelligence** at **Complutense University of Madrid**. I specialize in **Natural Language Processing (NLP)**, **Machine Learning**, **Data Analysis**, and **Data Visualization**. I am committed to using advanced technologies to solve complex problems and extract valuable insights from data.
 
-## 🎓 Educación
+## 🎓 Education
 
 ### Data Engineering and Artificial Intelligence
 **Complutense University of Madrid** | Madrid, Spain  
@@ -32,31 +32,19 @@ Soy un estudiante de **Data Engineering** e **Inteligencia Artificial** en la **
 **Jul 2023 - Aug 2023**  
 **Final Qualification**: First-Class  
 
-## 🛠 Habilidades
+## 🛠 Skills
 
-- **Lenguajes de Programación**: Python, C++, Java, R
-- **Bases de Datos**: MongoDB, SQL, PL/SQL
-- **Frameworks y Bibliotecas**: TensorFlow, Keras, scikit-learn, Matplotlib, Seaborn, Plotly
-- **Algoritmos de IA**: A*, Minimax, Alpha-Beta Pruning, Aprendizaje por Refuerzo
-- **Optimización**: Algoritmos de optimización (Simplex, Gradient Descent)
-- **Metodologías Ágiles**: Scrum, Kanban
-- **Análisis Estadístico**: Pruebas de hipótesis, ANOVA, modelos de regresión (lineales y logísticos)
+- **Programming Languages**: Python, C++, Java, R
+- **Databases**: MongoDB, SQL, PL/SQL
+- **Frameworks and Libraries**: TensorFlow, Keras, scikit-learn, Matplotlib, Seaborn, Plotly
+- **AI Algorithms**: A*, Minimax, Alpha-Beta Pruning, Reinforcement Learning
+- **Optimization**: Optimization algorithms (Simplex, Gradient Descent)
+- **Agile Methodologies**: Scrum, Kanban
+- **Statistical Analysis**: Hypothesis testing, ANOVA, regression models (linear and logistic)
 
-## 💼 Experiencia Laboral
+## 📫 Connect with me
 
-### Vicepresidente
-**Consejo Nacional de Inteligencia Artificial** | Madrid, Spain  
-**Ene 2024 - Presente**  
-- Lideré la creación de esta institución para asegurar que los desarrollos en IA generen un impacto positivo en la sociedad.
+- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/alvaro-alonso-ortega-3905a9239/)
+- **Email**: alvaroea@ucm.es
 
-### Analista de Datos (Freelance)
-**Exintursa Hotels & Resorts** | Remote  
-**Sep 2023 - Dic 2023**  
-- Participé en el desarrollo de un modelo de precios predictivo, implementando modelos de regresión y análisis de datos.
-
-## 📫 Conéctate conmigo
-
-- **LinkedIn**: [tu_perfil_linkedin]([https://www.linkedin.com/in/tu_perfil](https://www.linkedin.com/in/alvaro-alonso-ortega-3905a9239/))
-- **Correo electrónico**: alvaroea@ucm.es
-
-¡Gracias por visitar mi perfil de GitHub! No dudes en contactarme si tienes alguna pregunta o propuesta de colaboración.
+Thank you for visiting my GitHub profile! Feel free to reach out if you have any questions or collaboration proposals.
